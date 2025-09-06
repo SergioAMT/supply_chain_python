@@ -36,4 +36,4 @@ jupyter notebook
 ```markdown
 ## Contact
 Created by Sergio Morillo  https://www.linkedin.com/in/sergio-alejandro-morillo/
-📧 Email: your.email@example.com
+📧 Email: alejandrosamt@gmail.com
