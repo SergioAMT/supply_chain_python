@@ -28,7 +28,7 @@ This project applies Python and data analysis techniques to sales data using the
 ## How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/ABC-Analysis-Portfolio.git
+   git clone https://github.com/SergioAMT/supply_chain_python.git
 pip install -r requirements.txt
 jupyter notebook
 
